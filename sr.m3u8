@@ -1,3 +1,5 @@
+#EXTM3U
+
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVET9_PYhAWNABPbfXd1VTLbG-mZqbsl-gaw&usqp=CAU",Ekushey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
