@@ -1,16 +1,22 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVET9_PYhAWNABPbfXd1VTLbG-mZqbsl-gaw&usqp=CAU",Ekushey TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVET9_PYhAWNABPbfXd1VTLbG-mZqbsl-gaw&usqp=CAU",Ekushey TV 1
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVET9_PYhAWNABPbfXd1VTLbG-mZqbsl-gaw&usqp=CAU",Ekushay TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVET9_PYhAWNABPbfXd1VTLbG-mZqbsl-gaw&usqp=CAU",Ekushay TV 2
 https://ekusheyserver.com/etvlivesn.m3u8
 
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVET9_PYhAWNABPbfXd1VTLbG-mZqbsl-gaw&usqp=CAU",Ekushey TV
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVET9_PYhAWNABPbfXd1VTLbG-mZqbsl-gaw&usqp=CAU",Ekushey TV 3
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://iili.io/HC820mb.png",Ntv
 https://freeiptv25.netlify.app/live/bdix/app/Ntv.m3u8
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.daily-sun.com/_next/image?url=https%3A%2F%2Fcdn.daily-sun.com%2Fpublic%2Fnews_images%2F2020%2F11%2F17%2FDs-201117-35.jpg&w=1920&q=100",T Sports
-http://10.192.0.3:8082/T-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png",Gazi Tv 1
+http://176.119.29.52/live.ts?channelId=98&deviceMac=00:1A:79:0A:CA:4F
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.daily-sun.com/_next/image?url=https%3A%2F%2Fcdn.daily-sun.com%2Fpublic%2Fnews_images%2F2020%2F11%2F17%2FDs-201117-35.jpg&w=1920&q=100",T Sports 1
+https://freeiptv25.netlify.app/live/stream_8.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.daily-sun.com/_next/image?url=https%3A%2F%2Fcdn.daily-sun.com%2Fpublic%2Fnews_images%2F2020%2F11%2F17%2FDs-201117-35.jpg&w=1920&q=100",T Sports 2
+https://freeiptv25.netlify.app/live/app/Tsports/index.m3u8?token=freeiptv25
