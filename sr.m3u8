@@ -11,3 +11,6 @@ http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://iili.io/HC820mb.png",Ntv
 https://freeiptv25.netlify.app/live/bdix/app/Ntv.m3u8
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://www.daily-sun.com/_next/image?url=https%3A%2F%2Fcdn.daily-sun.com%2Fpublic%2Fnews_images%2F2020%2F11%2F17%2FDs-201117-35.jpg&w=1920&q=100",T Sports
+http://10.192.0.3:8082/T-SPORTS/tracks-v1a1/mono.m3u8
